@@ -7,7 +7,7 @@
 ### About Me
 
 - 🎓 **Software Engineering Student** (2nd Semester)
-- 🚀 Currently diving deep into **Java** and **JavaScript**
+- 🚀 Currently diving deep into **Java**
 - 🎯 Focused on building clean, efficient, and user-friendly software
 
 ---
@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,arduino,html,css,git,github,notion,php,trello,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,arduino,html,css,git,github,notion,php,vscode" />
   </a>
 </p>
 
