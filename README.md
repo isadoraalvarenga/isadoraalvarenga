@@ -46,11 +46,9 @@
 </tr> 
 <tr>
 <td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=isadoraalvarenga&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
 </td>
 <td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=isadoraalvarenga&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
 </td>
 <td>
@@ -83,13 +81,10 @@
 <img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=n6l5sp0lh7wb99c7e1x45lupt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/> -->
 <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=n6l5sp0lh7wb99c7e1x45lupt&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<!-- <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a> -->
-<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=joaoaramuni&amp;count=10&amp;radius=40&amp;stats=compact&amp;footer=wave&amp;loved=off" alt="Last.fm recently played" width="200px"/>
+<img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=isaalvarenga&amp;count=10&amp;radius=40&amp;stats=compact&amp;footer=wave&amp;loved=off" alt="Last.fm recently played" width="200px"/>
 </td>
 </tr>
 <tr>
